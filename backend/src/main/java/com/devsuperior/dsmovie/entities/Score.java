@@ -43,5 +43,15 @@ public class Score {
 	public void setUser(User user) {
 
 	}
+
+	public void SetMovie(Movie movie) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void SetUser(User user) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
